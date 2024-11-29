@@ -1,0 +1,5 @@
+ This is a second git session which i am currently performing on 29th nov 2024.
+ 
+ Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id quod esse alias
+  magni! Delectus accusantium impedit fugiat? Maxime, officiis sapiente ab vel
+  magni nesciunt architecto voluptates ad repellat, neque vitae?
