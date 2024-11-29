@@ -3,3 +3,5 @@
  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Id quod esse alias
   magni! Delectus accusantium impedit fugiat? Maxime, officiis sapiente ab vel
   magni nesciunt architecto voluptates ad repellat, neque vitae?
+
+  i have completed my git sesssion 2.
